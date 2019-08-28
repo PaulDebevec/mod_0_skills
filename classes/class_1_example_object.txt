@@ -1,0 +1,12 @@
+Object: John_Patrick
+title: "Bar Tender"
+tenure: 1.5
+pay: 11.0
+speed: 1.0
+customer_service_level: 80
+***
+
+Methods:
+promotion: "Shift Supervisor" and pay + 2.0 = 13.0
+good_mood: speed + 10 and customer_service_level + 10
+***
