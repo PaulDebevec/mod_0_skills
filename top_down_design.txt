@@ -1,0 +1,30 @@
+How to become a Turing student
+
+1. Student
+  1.1 Make down payment
+    1.1.1 Set up payment plan
+2 Interview
+  2.1 Interview with Turing
+    2.1.1 Set up interview with Turing
+3. Apply
+  2.1 Go to Turing website
+  2.2 Select "Programs" at the top of the screen
+  2.3 Choose between Back-End and Front-End Engineering
+  2.4 Click "Apply now"
+  2.5 Watch intro video
+    2.5.1 Click play on intro imbedded video
+  2.6 Log in with Github or Facebook
+    2.6.1 Click log in button
+    2.6.2 Enter valid email address
+      2.6.2.1 Click on email textfield
+      2.6.2.2 Type in valid email address
+    2.6.3 Enter valid password
+      2.6.3.1 Click on password textfield
+      2.6.3.2 Type in valid password
+  2.7 Complete Application
+    2.7.1 Complete The Basics
+      2.7.1.1 Fill in every textfield within The Basics
+    2.7.2 Complete Work History
+      2.7.2.1 Fill in every necessary textfield within Work History
+    2.7.3 Complete Problem Solving
+      2.7.3.1 Complete the logic assessment step by step
