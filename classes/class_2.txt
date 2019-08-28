@@ -1,0 +1,19 @@
+Class: Menu
+
+Attributes
+price (float)
+drinks (string)
+appetizer (string)
+lunch_options (array)
+dinner_options (array)
+opening_time (integer)
+closing_time (integer)
+happy_hour (boolean)
+discount (float)
+
+
+Methods
+price_change (modifies price attribute in either lunch_options or dinner_options attributes)
+summer_weekend_hours (modifies opening_time and closing_time attributes)
+new_item (modifies lunch_options and/or dinner_options and/or appetizer attributes)
+military_discount (adds a negative value to price)
