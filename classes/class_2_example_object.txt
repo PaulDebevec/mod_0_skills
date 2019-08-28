@@ -1,0 +1,11 @@
+Object: LunchMenu
+price: 10
+lunch_options: ["Sandwich", "Burger", "Pizza"]
+opening_time: 11
+discount: 0.0
+***
+
+Methods:
+new_item: ["Sandwich", "Burger", "Pizza"] << "Chicken Salad"  !# ["Sandwich", "Burger", "Pizza", "Chicken Salad"]
+military_discount: price = 5
+***
