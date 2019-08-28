@@ -11,7 +11,7 @@ pay (float)
 
 
 Methods
-promotion (uses tenure attribute to change the title and pay attributes)
+promotion (uses tenure attribute to change the title and increases pay attribute by 2)
 angry_customer (changes customer_service_level value)
 menu_change (changes knowledge and speed attribute)
-good_mood (changes speed and customer_service_level)
+good_mood (increases speed and customer_service_level by 10)
